@@ -1,4 +1,5 @@
-# Analytics-Exploratory-Data-Analysis-Data-Visualization-Analyzing-Data-with-Tableau-Desktop
+## Data Analytics Tableau Learnings
+
 ## Tableau Desktop for Analysts
 Tableau Desktop is data analytics and visualization software from Tableau that lets you see and understand your data in minutes.
 
